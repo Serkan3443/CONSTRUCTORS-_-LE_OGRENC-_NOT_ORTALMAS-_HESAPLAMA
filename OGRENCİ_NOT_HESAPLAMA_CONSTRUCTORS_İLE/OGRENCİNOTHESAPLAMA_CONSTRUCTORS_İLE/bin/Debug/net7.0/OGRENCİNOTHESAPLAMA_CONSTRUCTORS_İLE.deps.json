@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OGRENCİNOTHESAPLAMA_CONSTRUCTORS_İLE/1.0.0": {
+        "runtime": {
+          "OGRENCİNOTHESAPLAMA_CONSTRUCTORS_İLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OGRENCİNOTHESAPLAMA_CONSTRUCTORS_İLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
